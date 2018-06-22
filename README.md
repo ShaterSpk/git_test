@@ -1,0 +1,1 @@
+This is Shather’s first git project!
